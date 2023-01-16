@@ -13,7 +13,11 @@ export default function (){
             <Navigation/>
             <Start/>
             <HelloHi />
-            {/* Hey */}
+
+
+
+            {/*testar lite saker*/}
+
         </main>
         </>
 }
