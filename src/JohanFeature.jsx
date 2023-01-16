@@ -1,6 +1,6 @@
 const JohanFeature = () => {
     return ( 
-        <h2>Test</h2>
+        <h1>Test</h1>
         <p>Här finns det en väldigt intressant text</p>
      );
 }
