@@ -1,3 +1,3 @@
 export default function() {
-    console.log('hejsan')
+    console.log('Nej, tja är bättre')
 }
