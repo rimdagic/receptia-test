@@ -12,7 +12,7 @@ export default function (){
             <Headline/>
             <Navigation/>
             <Start/>
-            <HelloHi />
+            <helloHi />
 
 
 
